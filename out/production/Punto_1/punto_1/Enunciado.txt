@@ -1,0 +1,5 @@
+Su grupo debe implementar un sistema de información para una fábrica de camisetas de la National
+Football League. Se utiliza 3 tipos de textiles: Nike_DRI-FIT, Adidas_Climacool y Puma_Dry-CELL.
+
+Utilizando alguno de los Patrones vistos en clase, diseñe un proyecto NetBeans java llamado
+Punto_1 que modele de manera general la elaboración de las camisetas de los tres tipos de textiles.
